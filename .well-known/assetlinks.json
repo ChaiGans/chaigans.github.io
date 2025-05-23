@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.purritify",
+      "sha256_cert_fingerprints": [
+        "E3:B8:D8:0C:CD:30:3F:28:B9:CC:54:52:05:0C:0F:3D:E1:0D:94:89:84:5B:E0:03:0F:67:DC:59:34:93:83:F9"
+      ]
+    }
+  }
+]
