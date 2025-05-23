@@ -7,7 +7,7 @@ Generate keystore command
 ```
 keytool -genkeypair \
   -v \
-  -keystore release.keystore \
+  -keystore release-key.jks \
   -alias purritify \
   -keyalg RSA \
   -keysize 2048 \
